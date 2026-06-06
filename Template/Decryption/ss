@@ -1,0 +1,73 @@
+
+Introduction
+
+    Introduction
+    Course Discord
+
+Before We Start
+
+    Objectives of an External Pentest
+    Checklists, FTW
+    Rules of Engagement
+    Verifying Scope
+    Client Communication
+
+Kicking Off
+
+    Attack Strategy
+    Vulnerability Scanning
+    Reviewing & Extracting Information
+
+Information Gathering / OSINT
+
+    Overview
+    Hunting Breached Credentials
+    Identifying Employees & Emails
+    Enumerating Valid Accounts (Pre-Attack)
+    Other Useful Information
+
+Attacking Login Portals
+
+    Overview & Strategy
+    Attacking O365
+    Attacking OWA
+    Attacking Other Portals
+    Bypassing MFA
+
+Escalating Access
+
+    Strategy & Walkthrough
+
+Report Writing
+
+    Report Writing
+
+Common Pentest Findings
+
+    Overview
+    Insufficient Authentication Controls
+    Weak Password Policy
+    Insufficient Patching
+    Default Credentials
+    Insufficient Encryption
+    Information Disclosure
+    Username Enumeration
+    Default Web Pages
+    Open Mail Relays
+    IKE Aggressive Mode
+    Unexpected Perimeter Services
+    Insufficient Traffic Blocking
+    Undetected Malicious Activity
+    Historical Account Compromises
+
+Wrapping Up
+
+    Client Debriefs
+    Attestation Letters
+    Client Retests
+    Next Steps: The Practical Network Penetration Tester (PNPT) Certification
+
+Conclusion
+
+    Course Conclusion
+
